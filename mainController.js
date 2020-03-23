@@ -28,4 +28,4 @@ async function createThumbnail(req, res) {
     });
 };
 
-module.exports = {login, createDocument, createThumbnail}
+module.exports = { login, createDocument, createThumbnail }
