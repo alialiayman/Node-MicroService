@@ -28,6 +28,9 @@ docker exec -it <container id> /bin/bash
 exit
 docker stop <container id>
 ```
+**DockerHub Image**
+https://hub.docker.com/r/aliayman/hackerbay-backend
+docker pull aliayman/hackerbay-backend
 
 
 ###Test end points using Curl
