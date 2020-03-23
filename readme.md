@@ -112,7 +112,7 @@ curl --location --request GET 'localhost:3000/thumbnail?url=https://via.placehol
 }'
 ```
 ```
-to seen an actual image rendered use post man.
+To see an actual png image rendered use post man.
 ```
 
 
