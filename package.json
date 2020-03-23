@@ -1,0 +1,27 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "backend API",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha",
+    "dev": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "author": "Ayman Ali",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "jsonpatch": "^3.0.1",
+    "jsonwebtoken": "^8.5.1",
+    "sharp": "^0.25.2"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "expect.js": "^0.3.1",
+    "mocha": "^7.1.1",
+    "sinon": "^9.0.1"
+  }
+}
